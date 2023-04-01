@@ -21,7 +21,7 @@ In Visual Studio Code you will need to open a terminal. You will also need to cr
 
 Dockerfiles are used to generate a new image quickly and effectively, that contains the necessary content. Our Dockerfile will be very simple with a FROM step and COPY step. The FROM step will be the nginx image that will be downloaded from Docker hub. The COPY step will be the html file and the path where Nginx uses the index.html file from. In the Dockerfile on VS code put in the following.
 
-![image](https://user-images.githubusercontent.com/115881685/216083784-939bd610-6104-4a88-8636-807d66dc9f4c.png)
+
 
 
 Save and then create an index.html file in the same directory. Copy and paste the following Gist into your index.html file. You can edit the code or create your own!
@@ -36,7 +36,7 @@ This html file will show the date and time that the container is created upon en
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/216085062-1a005a1d-b57f-49bd-8992-9eea0a5a8bdf.png)
+
 
 
 
