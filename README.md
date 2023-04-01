@@ -27,8 +27,7 @@ Dockerfiles are used to generate a new image quickly and effectively, that conta
 Save and then create an index.html file in the same directory. Copy and paste the following Gist into your index.html file. You can edit the code or create your own!
 
 
-![image](https://user-images.githubusercontent.com/115881685/216084814-8c813616-bec6-441f-b079-962c5e4fb7f5.png)
-![image](https://user-images.githubusercontent.com/115881685/216084888-97314170-3a20-4f2b-909c-03ddacc2d506.png)
+
 
 
 
